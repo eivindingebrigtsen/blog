@@ -1,0 +1,176 @@
+---
+title: A Brief History of Internet
+date: 2010/08/15
+
+
+
+1969: The Internet is born.
+
+In order to link universities with research facilities, the Advanced Research Project Agency run by the US Department of Defense developed ARPANET, which served as the basis of the Internet as we know it today. 
+
+
+
+
+1971: The first e-mail.
+
+Ray Tomlinson, inventor of e-mail, sends a message to his colleagues in 1971 and informs them about the fact that from then on, it was possible to send news via a network by adding the @-icon and the computer’s host name to the addressee’s user name. In Germany, the first e-mail is received on August 3rd, 1984, at 10:14 CET. Under his address, “rotert@germany”, Michael Rotert at Karlsruhe University receives greetings, which were sent the day before.
+
+
+
+
+1989: The WorldWideWeb is born.
+
+In order to keep the data chaos at the CERN research center within a limit, Tim Berners-Lee, a Brit who works there as a computer scientist, lays down his “Information management” white paper. The idea of the first browser to move within the World Wide Web is also Tim’s idea. Its name, “World Wide Web”, became a synonym for the Internet as a whole.
+
+
+
+
+1988/90: DSL pushes the Internet.
+
+DSL makes it suddenly possible to receive data ten times as fast as with a regular 56k modem. Finally, this new high-speed Internet allows listening to music and watching movies in real-time.
+
+
+
+1990: Accessing the Internet with your cell phone.
+
+From the beginning of the nineties, it is possible for the consumer to access the Internet via the GSM net, even though this access is at low speed.
+
+
+
+1991: The first Browser.
+	
+		Nexus, followed by Mosaic, predecessor to both Netscape( 1994 ) and Internet Explorer( 1995 ). 
+		Opera started in 1994.
+	
+
+
+1994/95: The foundation of Yahoo.
+
+David Filo and Jerry Yang work on a navigation aid for the Internet. The number of Internet sites registered in the web catalogue, a kind of telephone directory for the Internet, was growing simply too rapidly. So, they started categorizing them. This turned out to be the cornerstone for one of the most successful brands of the Internet.
+
+
+
+1994: The first banner ads are sold.
+
+HotWired is the first company to sell banner ads on a large scale. The first buyers: AT&amp;T and Zima. The click rate, the number of clicks on one banner in relation to its overall number of views, is 30%! Today, it is already considered a success when the 1% barrier is reached.
+
+
+
+	1997: Anders &amp; Eivind writes their first HTML
+	With &lt;blink> tags and animated gifs.
+	Keyword is Under Construction.
+
+
+1998: Google.
+	
+
+Google.com goes online as a test version and is one of the first “real” search engines where a program combs through the Net, not an editorial department. In the year of its foundation, Google already knows 25 million sites and has become the worldwide leader on the search engine market with 80% of all search requests.
+
+
+
+2000: Google gives up its ad-free policy.
+
+By introducing Google Adwords, the company invents keyword advertising, a new form of online advertisement displaying relevant ads along with the search result. By 2009, Adwords is responsible for 95% of Google’s income.
+
+
+
+2001: The knowledge of the crowd: Wikipedia.
+
+The free online encyclopedia, “Wikipedia”, is founded and any Internet user is not only allowed to read Wikipedia articles for free, but he or she can also write or edit them. The days when people had to pay hundreds of Euros for a whole lexicon volume are over. Right now (September 2009), Wikipedia stores approximately 10 million articles provided in more than 230 languages.
+
+
+
+2003: Hello MySpace.
+
+Tom Anderson founds the “MySpace” Internet community, and thus, re-defines the way all following generations communicate. In the future, some will meet their boyfriend or wife-to-be, not in a disco, but via a social network. In 2006, the 100th millionth member will get registered, and by the end of 2008, the number of members will have grown to 260 million.
+
+
+
+
+2005: Murdoch buys MySpace.
+
+The media mogul, Rupert Murdoch, buys MySpace for $580m.
+
+
+
+
+2005: Broadcast yourself.
+
+Chad Hurley, Steve Chen and Jawed Karim found the Internet portal, “YouTube”, on which users can upload and watch video clips for free.
+
+
+
+
+
+
+2006: Google buys YouTube.
+
+Google announces the take-over of YouTube for $1.5 billion.
+
+
+
+
+2006: Facebook opens up.
+
+Until September 2006, only American pupils, students and company employees were able to register with Facebook. From now on, students of foreign universities can also register.
+
+
+
+
+2006: Internet changes the porn industry.
+
+From the very beginning, pornography was one of the main drivers of the Internet and the word “sex” was one of the most often-entered terms in search engines. Yet, just as the high supply of freely available music caused big trouble for the music industry, the oversupply of sex on the net and Internet sites such as YouPorn (featuring free titty clips) made the conventional porn industry lose up to 50% of its income.
+
+
+
+
+2006: The world starts tweeting.
+
+The social network, “Twitter”, is presented to the public in March 2006. The purposes for which Twitter is being used are manifold. The NASA, for instance, has Twitter feeds for several of their projects; some Tweets even came in from outer space. The Los Angeles Fire Department will use this service for spreading information during the Southern California forest fires in 2007. Due to their short message character limit, notes on current events can often be found even faster on Twitter than on media backed up by editorial departments. Examples will be the emergency landing of US Airways flight 1549 or the Winnenden gun rampage.
+
+
+
+October 2006: Suicide through MySpace
+Megan M. commits suicide after being mobbed by a friend’s mother through MySpace messages.
+
+
+
+2007: The iPhone.
+
+On June 29th, 2007, the first iPhone is available on the US market and is responsible for a drastic increase of mobile Internet usage. Already two years later, more than 65% of all mobile Internet users in the US go online with an iPhone or an iPod Touch.
+
+
+
+
+2008: 1 out of 8 couples getting married in the USA have met online.
+
+
+
+
+
+2008: Monty Python open their own YouTube channel to “suppress the illegal distribution of their videos”.
+ What appeared to be a typical Python joke at first quickly pays off for the guys: from then on the only way Monty Python DVDs know in the Amazon sales charts is up.
+
+
+
+
+2009: Dell announces to have made more than 3 million dollars in computer sales via Twitter posts in 2007.
+
+
+
+
+
+2009: More than 15,000 people in the newspaper industry have lost their jobs.
+
+
+
+
+
+2010: Pope Benedict XVI calls on using the Internet even more than before to spread the “Word of Christ”.
+ Amen.
+
+
+
+
+From OhMyGodWhatHappened.com © 2010 Leif Abraham & Christian Behrendt - www.innovativethunder.com
+

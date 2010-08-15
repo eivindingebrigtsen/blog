@@ -26,9 +26,17 @@ task :new do
 end
 
 desc "Publish my blog."
-task :publish do
-  toto "publishing your article(s)..."
-  `git push heroku master`
+task :publish do 
+  puts "publishing your article(s)..."
+ 	sh("git add -u .")
+  sh("git commit -m '#{ENV['m']}'") 
+  sh(`git push heroku master`)
+end
+
+desc "Commit."
+task :cm do 
+ 	sh("git add -u .")
+  sh("git commit -m '#{ENV['m']}'") 
 end
 
 def toto msg

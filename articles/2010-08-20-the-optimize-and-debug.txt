@@ -1,0 +1,28 @@
+--- 
+title: The Optimize & debug
+date: 20/08/2010
+
+Eple + ctrl + shift + W
+
+
+
+	
+		Optimize
+			
+		
+		minify
+		css sprites (flyttes fra css)
+		CDN (snuten: bad example)
+		
+		Debug
+		Firefox Firebug demo | Opera | Safari / Chrome / Webkit nightly
+		Jslint
+		Validators
+		
+		
+		
+	
+
+
+
+

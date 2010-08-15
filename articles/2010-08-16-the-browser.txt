@@ -1,0 +1,50 @@
+title: The Browser
+author: Eivind Ingebrigtsen	
+date: 2010/08/16
+
+
+
+
+http://img.skitch.com/20100813-j5w5jckx2sce9pmeic7ujgkfwf.png
+
+
+http://www.michaelvandaniker.com/labs/browserVisualization/
+http://img.skitch.com/20100805-n74kk579fuyxuj7bp1ei6s5yxs.png
+http://upload.wikimedia.org/wikipedia/commons/7/74/Timeline_of_web_browsers.svg
+
+
+The layered cake (HTML, CSS, Javascript)
+http://www.alistapart.com/d/understandingprogressiveenhancement/m-m.jpg
+	
+		HTML
+		CSS
+		Javascript
+		Understanding Progressive Enhancement
+		
+
+What can you do in a browser
+	
+		Gmail 	
+Gucci 	
+Forms 
+Interactive charts 	
+Experiments
+
+
+
+	
+	 
+
+	Compatibility
+	Hell is other browsers	
+	
+		QuirksMode compability checker
+	Litmus  compability checker
+	Smashing on compatibility testing
+
+
+	
+		Console
+		
+		Available on Firefox, Safari, Chrome. Firebug in firefox
+

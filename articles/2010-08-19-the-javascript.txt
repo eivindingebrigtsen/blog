@@ -1,0 +1,172 @@
+--- 
+title: The Javascript
+date: 19/08/2010
+
+
+	
+		DOM
+		
+		document
+		document.title
+		document.location
+		document.getElementById('example')
+		document.getElementsByTagName('article')
+		
+	
+	
+		Variables
+			
+				var str = 'Hello World';    // String
+				var num = 100;              // Number
+				var bool = true;            // Boolean
+				var arr = [0,1,2];          // Array
+				var obj = {key: 'value'}    // Object, Hash
+				typeof str                  // Type testing 
+			
+	
+	
+		Function
+		
+			something = function(argument){				
+				alert('creating something');				
+				doSomething = function(argument){
+					alert('doing something');
+				}
+				// returning an api for the internal function
+				return{
+					doSomething : doSomething
+				}
+			}
+			test = something();
+			test.doSomething();
+
+
+	
+	
+		If .. else.. switch
+		
+			if (condition == true){
+				// Do stuff
+			}else if(condition == undefined){
+				// Do other stuff
+			}else{
+				// Do the thing
+			}
+			switch (variable){
+				case 'hello':
+					// Do thing
+					break;
+				default:
+				 // Do default
+				break;
+			}
+		
+
+	
+		try catch
+		
+			try{
+				// something that might fail - ajax
+			}catch(e){
+				// do something when it fails
+			}
+
+
+	
+		while for loops
+		
+			var arr = [0,1,2];
+			for (u = 0; u < arr.length; u++){
+				console.log(arr[u])
+			}
+			var i = 10;
+			while(i--){
+				// Do things in a loop
+			}
+		
+
+	
+		dot.syntax - prototypal
+		
+
+		
+	
+	
+		closure & scope
+		
+
+				
+	
+	
+		falsy values
+		
+
+		
+	
+	
+		JSON
+		
+
+		
+	
+
+	
+		jQuery
+			
+
+		
+	
+		
+		jQ selectors
+		
+
+		
+	
+		
+		jQ events
+		
+
+		
+	
+		
+		jQ traversing
+		
+
+		
+	
+		
+		jQ manipulation
+		
+
+		
+	
+		
+		jQ attributes
+		
+
+		
+	
+		
+		jQ ajax
+		
+
+		
+	
+		
+		jQ utilities
+		
+
+		
+	
+		
+		jQuery Ui -> themeroller
+		
+
+		
+	
+		
+		writing a jquery plugin
+		
+
+		
+	
