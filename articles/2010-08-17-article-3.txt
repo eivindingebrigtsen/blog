@@ -1,0 +1,9 @@
+--- 
+title: article 3
+date: 17/08/2010
+preface: Hello from preface about this article
+thumb: http://static02.vg.no/drfront/images/2010-08/17/86-3c5fa338-db87d22c.jpeg
+image: http://cl.ly/16dfcad0c8fc7d59c022/content
+
+Once upon a time...
+

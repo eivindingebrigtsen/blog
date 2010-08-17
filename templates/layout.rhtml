@@ -4,6 +4,9 @@
     <link rel="stylesheet" type="text/css" href="/css/main.css">
     <link rel="alternate" type="application/atom+xml" title="<%= title %> - feed" href="/index.xml" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+		<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
     <title><%= title %></title>
   </head>
   <body>
@@ -20,6 +23,23 @@
     <footer>
       powered by <a href="http://cloudhead.io/toto">toto</a>
     </footer>
+
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+		<script type="text/javascript" charset="utf-8">
+			$(function(){
+				var h = 0;
+				$('#articles .post').each(function(){
+					var height = $(this).height();
+					if(height > h ){
+						h = height;
+					}
+				}).height(h);
+				$('#articles .post').bind('click', function(e){
+					window.location = $(this).find('a').filter(':first').attr('href');
+				});
+			});
+		</script>
+
   </body>
 </html>
 
