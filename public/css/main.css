@@ -86,7 +86,7 @@ section.content p:first-child{
 	float:left;
 	width: 33%;
 }
-#articles .post:hover{
+#articles .post.hover{
 	background: #FFA;
 	cursor: pointer;
 }
@@ -94,3 +94,9 @@ section.content p:first-child{
 	max-width: 90%;
 	margin-left: 5%;
 }
+
+
+
+
+
+

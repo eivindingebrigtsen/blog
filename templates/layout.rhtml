@@ -25,20 +25,8 @@
     </footer>
 
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
-		<script type="text/javascript" charset="utf-8">
-			$(function(){
-				var h = 0;
-				$('#articles .post').each(function(){
-					var height = $(this).height();
-					if(height > h ){
-						h = height;
-					}
-				}).height(h);
-				$('#articles .post').bind('click', function(e){
-					window.location = $(this).find('a').filter(':first').attr('href');
-				});
-			});
-		</script>
+		<script src="/js/init.js" type="text/javascript" charset="utf-8"></script>
+
 
   </body>
 </html>
