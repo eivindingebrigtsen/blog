@@ -11,21 +11,32 @@
   </head>
   <body>
 	<header>
-	</header>
+		<h1>My funky blog</h1>
 		<nav>
-		<ul>
-			<li><a href="/about">About</a></li>
-		</ul>
+			<ul>
+				<li><a href="/">Home</a></li>
+				<li><a href="/archives">Archives</a></li>
+				<li><a href="/about">About</a></li>
+			</ul>
 		</nav>
+	</header>
     <section>
       <%= yield %> 
     </section>
+		<aside>
+			<h2>Twitter feed</h2>
+			<ul id="twitter">
+			</ul>
+		</aside>
     <footer>
-      powered by <a href="http://cloudhead.io/toto">toto</a>
+      powered by the fantastic power of Eivind Ingebrigtsen &amp; <a href="http://cloudhead.io/toto">toto</a>
     </footer>
 
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="/js/newsTicker.js" type="text/javascript" charset="utf-8"></script>
 		<script src="/js/init.js" type="text/javascript" charset="utf-8"></script>
+
+
 
 
   </body>

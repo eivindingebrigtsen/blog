@@ -1,3 +1,5 @@
+/* @override http://localhost:3000/css/main.css */
+
 *{
 	margin: 0;
 	padding: 0;
@@ -5,10 +7,10 @@
 	color: inherit;
 }
 body{
-	background: #EEE;
+	background: #f1efe6 url(/images/bg.png) repeat-x top center;
 	font-family: arial;
 	font-size: 18px;
-	width: 800px;
+	width: 960px;
 	margin: 0 auto;
 	line-height: 1.5;
 }
@@ -31,40 +33,28 @@ a{
 	text-align: right;
 	font-size: .6em;
 }
+
 nav ul{
 	list-style: none;
+	margin: 0;
 }
 nav li{
+	margin: 0;
 	float :left;
-	background: #dEF;
+	font-size: 14px;
 	padding: 3px 7px;
-	-webkit-border-bottom-left-radius:5px;
-	-webkit-border-bottom-right-radius:5px;
-		-webkit-box-shadow: 0 0 4px #333;
+	border-right: 1px solid white;
 
 }
-nav li:hover{
-	background: #ACF;
+nav li:hover a{
+	color: #FFF;
+
 }
 nav a{
+	color: #DDD;
 	text-decoration: none;
 }
-body > section{
-	background: #FFF;
-	padding: 10px 5%;
-	float: left;
-	width: 90%;
-	margin-top: 1em;
-	-webkit-border-radius: 10px;
-	-webkit-box-shadow: 0 0 4px #333;
-}
-body > footer{
-	margin: 1em 0;
-	float :left;
-	width: 100%;
-	text-align: center;
-	
-}
+
 blockquote{
 	font-family: georgia;
 	font-style: italic;
@@ -82,6 +72,13 @@ section.content p:first-child{
 #articles h1{
 	line-height: 1;
 }
+#articles .post:first-child, #articles.news-ticker .post{
+	width: 96%;
+	padding: 0 2%;
+	border-bottom: 1px solid gray;
+	margin-bottom: 1em;
+}
+
 #articles .post{
 	float:left;
 	width: 33%;
@@ -92,11 +89,85 @@ section.content p:first-child{
 }
 #articles .post img{
 	max-width: 90%;
-	margin-left: 5%;
+	padding: 5px 3%;
+	background: #FFF;
+	border: 1px solid gray;
+	margin-left: 1%;
+	
 }
 
+span.user{
+	color:  #F5F;
+	
+}
+span.tag {
+	color: #666;
+	font-weight: bold;
+}
+header, nav, footer{
+	width: 100%;
+	float: left;
+	clear: both;
+}
+body > header{
+	margin-bottom: 1.5em;
+}
+body > header h1{
+	margin: .5em 1em 0;
+	color: #FFF;
+}
+header > nav{
+	margin: .5em 0 0;
+}
+body > section, body > aside{
+	float :left;
+	clear: none;
+}
+body > section{
+	background: #FFF;
+	width: 62%;
+	margin-right: 2%;	
+	padding: 0 2%;
+}
+body > aside{
+	width: 32%;
+}
 
+aside h2{	
+	margin: 0;
+}
 
+#twitter li{
+	list-style: none;
+	margin: .5em 0;
+}
+#twitter li p{
+	background: #FFF;
+	padding: 5px;
+	font-size: 12px;
+	margin: 0;
+	-webkit-border-radius: 5px;
+}
+#twitter small{
+	font-size: 10px;
+	margin: 0;
+}
 
-
-
+.news-ticker{
+	position: relative;	
+}
+.news-ticker-button{
+	position: absolute;
+	text-indent: -9999px;
+	top: 150px;
+	background: red;
+	height: 20px;
+	width: 20px;
+	outline: none;
+}
+.news-ticker-button.prev{
+	left: 0;
+}
+.news-ticker-button.prev{
+	right: 0;
+}
